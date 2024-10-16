@@ -1,0 +1,430 @@
+{
+  "herbs": [
+    {
+      "id": "1",
+      "name": "Turmeric",
+      "advantages": [
+        "Contains curcumin, which has potent anti-inflammatory and antioxidant properties.",
+        "May help with arthritis, digestive disorders, and cognitive function."
+      ],
+      "image": "tumeric.jpg",
+      "comments": []
+    },
+    {
+      "id": "2",
+      "name": "Ginger",
+      "advantages": [
+        "Effective for reducing nausea, aiding digestion, and decreasing inflammation.",
+        "May also help with osteoarthritis and muscle pain."
+      ],
+      "image": "ginger.jpg",
+      "comments": []
+    },
+    {
+      "id": "3",
+      "name": "Garlic",
+      "advantages": [
+        "Contains allicin, which can help lower blood pressure, reduce cholesterol levels, and support immune function.",
+        "Has antibacterial and antiviral properties."
+      ],
+      "image": "garlic.jpg",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "name": "Peppermint",
+      "advantages": [
+        "Known for its soothing effects on the digestive system.",
+        "Can relieve symptoms of irritable bowel syndrome (IBS), indigestion, and headaches."
+      ],
+      "image": "peppermint.jpg",
+      "comments": []
+    },
+    {
+      "id": "5",
+      "name": "Chamomile",
+      "advantages": [
+        "Has calming effects that can help with anxiety, insomnia, and digestive issues.",
+        "Has mild anti-inflammatory and antioxidant properties."
+      ],
+      "image": "chamomile.jpg",
+      "comments": [
+        "nice work#"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Lavender",
+      "advantages": [
+        "Used for its relaxing and anxiety-reducing effects.",
+        "May also help with insomnia and minor skin irritations."
+      ],
+      "image": "lavender.jpeg",
+      "comments": []
+    },
+    {
+      "id": "7",
+      "name": "Echinacea",
+      "advantages": [
+        "Often used to boost the immune system.",
+        "May help reduce the duration and severity of colds and respiratory infections."
+      ],
+      "image": "Echinacea.jpeg",
+      "comments": []
+    },
+    {
+      "id": "8",
+      "name": "Thyme",
+      "advantages": [
+        "Has antimicrobial and expectorant properties.",
+        "Useful for respiratory issues like coughs and bronchitis.",
+        "Supports digestion."
+      ],
+      "image": "thyme.jpg",
+      "comments": []
+    },
+    {
+      "id": "9",
+      "name": "Rosemary",
+      "advantages": [
+        "Contains antioxidants and anti-inflammatory compounds.",
+        "May help improve memory, support digestion, and relieve muscle pain."
+      ],
+      "image": "rosemary.jpeg",
+      "comments": []
+    },
+    {
+      "id": "10",
+      "name": "Sage",
+      "advantages": [
+        "Known for its anti-inflammatory and antioxidant properties.",
+        "Can help with digestive problems and improve cognitive function.",
+        "May also support oral health."
+      ],
+      "image": "sage.jpeg",
+      "comments": []
+    },
+    {
+      "id": "11",
+      "name": "Cilantro (Coriander)",
+      "advantages": [
+        "Supports digestion and helps with detoxification.",
+        "May also have antimicrobial and anti-inflammatory effects."
+      ],
+      "image": "cilantro.jpg",
+      "comments": []
+    },
+    {
+      "id": "12",
+      "name": "Dandelion",
+      "advantages": [
+        "Known for its diuretic properties.",
+        "Can support liver health, aid digestion, and help with fluid retention."
+      ],
+      "image": "Dandelion.jpg",
+      "comments": []
+    },
+    {
+      "id": "13",
+      "name": "Fennel",
+      "advantages": [
+        "Helps with digestive issues such as bloating and gas.",
+        "Has been used to support respiratory health and reduce inflammation."
+      ],
+      "image": "fennel.jpeg",
+      "comments": []
+    },
+    {
+      "id": "14",
+      "name": "Milk Thistle",
+      "advantages": [
+        "Contains silymarin, which supports liver health and detoxification.",
+        "May help protect the liver from damage and support overall liver function."
+      ],
+      "image": "Milk Thistle.jpeg",
+      "comments": []
+    },
+    {
+      "id": "15",
+      "name": "Oregano",
+      "advantages": [
+        "Has antimicrobial, anti-inflammatory, and antioxidant properties.",
+        "Can support immune health and help with digestive issues."
+      ],
+      "image": "oregano.jpeg",
+      "comments": []
+    },
+    {
+      "id": "16",
+      "name": "Lemon Balm",
+      "advantages": [
+        "Known for its calming effects.",
+        "Can help with anxiety, insomnia, and digestive discomfort."
+      ],
+      "image": "lemon balm.jpeg",
+      "comments": []
+    },
+    {
+      "id": "17",
+      "name": "Ashwagandha",
+      "advantages": [
+        "An adaptogen that helps the body manage stress.",
+        "May also support adrenal function, improve energy levels, and aid in sleep."
+      ],
+      "image": "Ashwagandha.jpeg",
+      "comments": []
+    },
+    {
+      "id": "18",
+      "name": "Holy Basil (Tulsi)",
+      "advantages": [
+        "Known for its adaptogenic properties.",
+        "Helps the body cope with stress.",
+        "Has anti-inflammatory, antioxidant, and antimicrobial effects."
+      ],
+      "image": "holy basil.jpeg",
+      "comments": []
+    },
+    {
+      "id": "19",
+      "name": "Marshmallow Root",
+      "advantages": [
+        "Contains mucilage that soothes the digestive tract and respiratory system.",
+        "Used for coughs, sore throats, and digestive inflammation."
+      ],
+      "image": "Marshmallow Root.jpeg",
+      "comments": []
+    },
+    {
+      "id": "20",
+      "name": "Nettle",
+      "advantages": [
+        "Rich in nutrients.",
+        "Can help with allergies, support joint health, and improve urinary tract function."
+      ],
+      "image": "nettle.jpeg",
+      "comments": []
+    },
+    {
+      "id": "21",
+      "name": "Ginseng",
+      "advantages": [
+        "Known for its adaptogenic properties.",
+        "Can help improve energy, reduce stress, and support immune function."
+      ],
+      "image": "ginseng.webp",
+      "comments": []
+    },
+    {
+      "id": "22",
+      "name": "Licorice Root",
+      "advantages": [
+        "Used to soothe gastrointestinal issues and respiratory conditions.",
+        "Has anti-inflammatory and antiviral properties.",
+        "Should be used cautiously as it can affect blood pressure."
+      ],
+      "image": "Licorice Root.jpeg",
+      "comments": []
+    },
+    {
+      "id": "23",
+      "name": "Elderberry",
+      "advantages": [
+        "Rich in antioxidants.",
+        "Can support the immune system and help reduce the duration and severity of colds and flu."
+      ],
+      "image": "Elderberry.jpeg",
+      "comments": []
+    },
+    {
+      "id": "24",
+      "name": "Hibiscus",
+      "advantages": [
+        "Contains antioxidants.",
+        "Can help lower blood pressure, support heart health, and improve cholesterol levels."
+      ],
+      "image": "Hibiscus.jpeg",
+      "comments": []
+    },
+    {
+      "id": "25",
+      "name": "Hawthorn",
+      "advantages": [
+        "Supports cardiovascular health.",
+        "Helps with symptoms of heart disease and improves circulation."
+      ],
+      "image": "hawthorn.jpeg",
+      "comments": []
+    },
+    {
+      "id": "26",
+      "name": "Fenugreek",
+      "advantages": [
+        "May help with blood sugar regulation.",
+        "Supports digestion and has anti-inflammatory properties."
+      ],
+      "image": "Fenugreek.jpeg",
+      "comments": []
+    },
+    {
+      "id": "27",
+      "name": "Angelica",
+      "advantages": [
+        "Used traditionally to aid digestion.",
+        "Relieves menstrual discomfort and supports respiratory health."
+      ],
+      "image": "angelica.jpeg",
+      "comments": []
+    },
+    {
+      "id": "28",
+      "name": "Basil",
+      "advantages": [
+        "Contains antioxidants and anti-inflammatory compounds.",
+        "May help with digestive issues and support overall health."
+      ],
+      "image": "basil.jpeg",
+      "comments": []
+    },
+    {
+      "id": "29",
+      "name": "Catnip",
+      "advantages": [
+        "Known for its calming effects.",
+        "Can help with anxiety, insomnia, and digestive discomfort."
+      ],
+      "image": "catnip.jpeg",
+      "comments": []
+    },
+    {
+      "id": "30",
+      "name": "Cinnamon",
+      "advantages": [
+        "Contains antioxidants and has anti-inflammatory properties.",
+        "May help regulate blood sugar levels and support heart health."
+      ],
+      "image": "cinnamon.jpeg",
+      "comments": []
+    },
+    {
+      "id": "31",
+      "name": "Dill",
+      "advantages": [
+        "Supports digestion.",
+        "Reduces bloating and has antimicrobial properties."
+      ],
+      "image": "dill.jpeg",
+      "comments": []
+    },
+    {
+      "id": "32",
+      "name": "Gotu Kola",
+      "advantages": [
+        "Promotes cognitive function.",
+        "Supports skin health and aids in wound healing."
+      ],
+      "image": "gotu kola.jpeg",
+      "comments": []
+    },
+    {
+      "id": "33",
+      "name": "Kava",
+      "advantages": [
+        "Known for its calming and anxiety-reducing effects.",
+        "May also aid in improving sleep and relaxation."
+      ],
+      "image": "kava.jpeg",
+      "comments": []
+    },
+    {
+      "id": "34",
+      "name": "Motherwort",
+      "advantages": [
+        "Traditionally used for menstrual and menopausal symptoms.",
+        "May also support heart health and reduce anxiety."
+      ],
+      "image": "motherwort.jpeg",
+      "comments": []
+    },
+    {
+      "id": "35",
+      "name": "Red Clover",
+      "advantages": [
+        "Supports hormonal balance.",
+        "Aids in menopausal symptoms and has anti-inflammatory and antioxidant properties."
+      ],
+      "image": "red clover.jpeg",
+      "comments": []
+    },
+    {
+      "id": "36",
+      "name": "Rooibos",
+      "advantages": [
+        "Contains antioxidants.",
+        "May help with digestion, support skin health, and reduce the risk of certain chronic diseases."
+      ],
+      "image": "Rooibos.jpeg",
+      "comments": []
+    },
+    {
+      "id": "37",
+      "name": "Sarsaparilla",
+      "advantages": [
+        "Traditionally used to support skin health.",
+        "Helps detoxify the body and relieve arthritis symptoms."
+      ],
+      "image": "Sarsaparilla.jpeg",
+      "comments": []
+    },
+    {
+      "id": "38",
+      "name": "Slippery Elm",
+      "advantages": [
+        "Contains mucilage that soothes the digestive tract.",
+        "Can help with sore throats, ulcers, and digestive discomfort."
+      ],
+      "image": "slippery elm.jpeg",
+      "comments": []
+    },
+    {
+      "id": "39",
+      "name": "Yarrow",
+      "advantages": [
+        "Known for its anti-inflammatory and wound-healing properties.",
+        "Can help with digestive issues, reduce fevers, and support the immune system."
+      ],
+      "image": "",
+      "comments": []
+    },
+    {
+      "id": "40",
+      "name": "Aloe Vera",
+      "advantages": [
+        "Has soothing effects on the skin and digestive tract.",
+        "May help with skin conditions, digestive issues, and support hydration."
+      ],
+      "image": "aloe vera.jpeg",
+      "comments": []
+    },
+    {
+      "id": "41",
+      "name": "Burdock Root",
+      "advantages": [
+        "Supports liver and kidney function.",
+        "Can help with skin conditions and detoxification."
+      ],
+      "image": "Burdock Root.jpeg",
+      "comments": []
+    },
+    {
+      "id": "42",
+      "name": "Chicory",
+      "advantages": [
+        "Supports liver health and digestion.",
+        "May help with appetite regulation and reducing inflammation."
+      ],
+      "image": "chicory.jpeg",
+      "comments": []
+    }
+  ]
+}
